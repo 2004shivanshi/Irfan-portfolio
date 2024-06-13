@@ -16,11 +16,11 @@ const HeroBackground = () => {
       className: 'text-black dark:text-white'
     },
     {
-      text: "shaik",
+      text: "Irfan",
       className: "text-blue-500 dark:text-blue-500",
     },
     {
-      text: "Irfan",
+      text: "shaikH",
       className: "text-blue-500 dark:text-blue-500",
     },
   ]

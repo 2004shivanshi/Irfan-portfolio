@@ -20,7 +20,7 @@ export default function Home() {
         <section className="w-full h-5/6 gap-12 border-2 rounded-3xl mx-auto flex items-center justify-center" >
         <ProjectCard />
         <ProjectCard />
-          
+        <ProjectCard />
         </section>
       </div>
     </section>
